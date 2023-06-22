@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-    <img src="https://i.ibb.co/pjrdsZf/e-nature-min-1.gif"><br><br>
+    <img width="100%" src="https://i.ibb.co/2MCRgyn/E-nature.png"><br><br>
 </h2><br>
 
 <h3 align="center"> 
