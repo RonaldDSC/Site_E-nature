@@ -33,7 +33,7 @@
 
 ## 📢 About
 
-Projeto de **Desenvolvimento de Aplicações para Internet** da Faculdade, onde o proposito dessa atividade era construir um site responsivo e com alguns elemento visuais. É para isso o tema escolhido foi `natureza`.
+Projeto acadêmico onde o proposito dessa atividade era construir um site responsivo e com alguns elemento visuais. **E_nature** é um site baseado em uma intituição que demonstra a importância da natureza. `Ao clicar no botão Mensagem um formulário ira aparacer.`
 
 <br>
 
