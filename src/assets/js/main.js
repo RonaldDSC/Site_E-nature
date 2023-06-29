@@ -16,6 +16,7 @@ for (i = 0; i < toggleModal.length; i++) {
     });
 }
 
+
 //Abrindo e Fechado Menu Mobile
 for (m = 0; m < toggleMenu.length; m++) {
     toggleMenu[m].addEventListener("click", function () {

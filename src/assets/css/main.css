@@ -413,8 +413,9 @@ body {
     }
 
     .card-sobre:hover {
-        transform: scale(1.04);
-        transition: all 0.1s ease-out;
+        transform: scale(1.05);
+        transition: 0.5s;
+        box-shadow: rgba(50, 50, 50, 0.4) 5px 5px, rgba(50, 50, 50, 0.3) 10px 10px;
     }
 
     .card-sobre img {
