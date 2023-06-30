@@ -34,7 +34,7 @@
 
 ## 📢 About
 
-Projeto acadêmico onde o proposito dessa atividade era construir um site responsivo e com alguns elemento visuais. **E_nature** é um site baseado em uma intituição que demonstra a importância da natureza.<br><br> 
+Projeto acadêmico onde o proposito dessa atividade era construir um site responsivo e com alguns elemento visuais. **E_nature** é um site baseado em uma instituição que demonstra a importância da natureza.<br><br> 
 `Ao clicar no botão Mensagem um formulário ira aparacer.`
 
 <br>
