@@ -31,12 +31,11 @@ body {
     }
 
     .field-modal {
-        width: 90%;
+        width: 70%;
         display: none;
-        padding: 20px;
         padding-top: 0;
         border-radius: 5px;
-        position: absolute;
+        position: fixed;
         top: -100%;
         left: 0;
         right: 0;
@@ -61,6 +60,7 @@ body {
 
     .modal-form {
         width: 100%;
+
     }
 
     .modal-form label,
@@ -143,7 +143,7 @@ body {
         border: none;
         position: absolute;
         top: 10px;
-        right: 28px;
+        right: 20px;
     }
 
     .close-modal:focus {
@@ -510,9 +510,19 @@ body {
     }
 }
 @media screen and (min-width: 992px) {
+    /* MODAL */
     .field-modal {
         width: 650px;
     }
+
+    .bg-field {
+        margin-top: -30px;
+    }
+
+    .close-modal {
+        top: -10px;
+    }
+
     /* NAVBAR */
     .navBar-mobile {
         display: none;
