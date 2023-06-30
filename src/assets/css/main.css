@@ -60,7 +60,6 @@ body {
 
     .modal-form {
         width: 100%;
-
     }
 
     .modal-form label,
@@ -710,7 +709,6 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-
     width: 13px;
     background-color: #2e8b57;
 }
